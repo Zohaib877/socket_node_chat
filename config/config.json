@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Karachi@123",
+    "database": "transtant",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Karachi@123",
+    "database": "database_test",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Karachi@123",
+    "database": "database_production",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
